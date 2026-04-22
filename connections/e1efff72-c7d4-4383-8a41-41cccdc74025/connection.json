@@ -1,0 +1,18 @@
+{
+  "id": "e1efff72-c7d4-4383-8a41-41cccdc74025",
+  "display_name": "sflk",
+  "connector": {
+    "name": "CData Snowflake",
+    "version": "25.0.9596.0"
+  },
+  "properties": {
+    "AuthScheme": "OAuth"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 1
+  }
+}

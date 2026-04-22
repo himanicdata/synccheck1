@@ -1,0 +1,23 @@
+{
+  "id": "de5c5b4e-ab84-490c-a2bf-d48c8667dd7d",
+  "display_name": "clicktest",
+  "connector": {
+    "name": "ClickHouse",
+    "version": "latest"
+  },
+  "properties": {
+    "Protocol": "HTTP",
+    "Endpoint": "https",
+    "Database": "/console.clickhouse.cloud/:8123/default",
+    "Password": "SECURE:w/KbEe/Cnmp3pfTBixd+qDZC9hVhoF8KNC/EaCIT/HPH6W0ce9aHY2nSo+KrOBlhnErflqKFTh5T4nJ9",
+    "Port": "",
+    "User": "himanij@cdata.com"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 0
+  }
+}
