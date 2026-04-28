@@ -1,16 +1,13 @@
 {
-  "id": "af06c363-ec08-45e3-a6c3-4a359ed869e6",
-  "display_name": "mysql_git",
+  "id": "a433a833-ec06-45d5-ab4c-42f02b3bdf69",
+  "display_name": "a:?\"",
   "connector": {
     "name": "CData MySQL",
     "version": "latest"
   },
   "properties": {
-    "Server": "localhost",
     "AuthScheme": "Password",
-    "Password": "SECURE:Vi2224XSimsyUqXRG1Bjs8n1X2ebHGj/W7f2RmDzMdy44qFEGoOJJe3YlhRVL5EBQ/6r/kRawOPodQ==",
-    "Port": "3306",
-    "User": "root"
+    "Port": "3306"
   },
   "labels": [],
   "settings": {

@@ -1,13 +1,13 @@
 {
-  "id": "1840a86c-821f-4584-ba48-5d80b21284b3",
-  "name": "testgit",
+  "id": "32d95f0e-5601-4a95-9f5b-c0deaebbe1ea",
+  "name": "t1",
   "pipeline_id": null,
   "type": 1,
-  "source_connector": "mysql_git",
-  "destination_connector": "postgres",
+  "source_connector": "postgres",
+  "destination_connector": "clicktest",
   "schedule": {
     "enabled": false,
-    "cron": null
+    "cron": ""
   },
   "alerts": {
     "send_email": false,
@@ -18,7 +18,7 @@
     "enable_parallel_processing": false,
     "worker_pool": 1,
     "verbosity": 2,
-    "destination_schema": "public",
+    "destination_schema": "",
     "automatic_job_retry": true
   },
   "replicate_options": {

@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 968066947805745153,
+      "job_id": "32d95f0e-5601-4a95-9f5b-c0deaebbe1ea",
+      "query": "REPLICATE [activity] WITH enableparallelreadpartitioning = 'false' SELECT * FROM [public].[activity]",
+      "is_active": true
+    },
+    {
+      "id": 968081009734193153,
+      "job_id": "32d95f0e-5601-4a95-9f5b-c0deaebbe1ea",
+      "query": "REPLICATE [accounts] SELECT * FROM [public].[accounts]",
+      "is_active": true
+    },
+    {
+      "id": 968081304333717505,
+      "job_id": "32d95f0e-5601-4a95-9f5b-c0deaebbe1ea",
+      "query": "REPLICATE [city] SELECT * FROM [public].[city]",
+      "is_active": true
+    }
+  ]
+}

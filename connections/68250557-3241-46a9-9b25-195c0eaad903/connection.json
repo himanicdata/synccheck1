@@ -1,17 +1,17 @@
 {
-  "id": "06011b81-4421-45b6-963f-b361a1b6a50b",
-  "display_name": "c l k n",
+  "id": "68250557-3241-46a9-9b25-195c0eaad903",
+  "display_name": "cli",
   "connector": {
     "name": "ClickHouse",
     "version": "latest"
   },
   "properties": {
     "Protocol": "HTTP",
-    "Endpoint": "j",
-    "Database": "j",
-    "Password": "SECURE:Fi38d9lsfLukEaWWl1skD92AJRrap7ImfRG4XBuHCE2b+zYJdjh9xwp2HOu9Y7QCqrsiLam2NFoL9A==",
+    "Endpoint": "invalid",
+    "Database": "invalid",
+    "Password": "SECURE:j5PyBiFpQSGlKiCOSgqdWKEQ7iPa9iRdoxh85NhI+g/t4UNmoldpb/wHkZPUoAS7cASGKaLUBg==",
     "Port": "8123",
-    "User": "himanij@cdata.com"
+    "User": "invalid"
   },
   "labels": [],
   "settings": {

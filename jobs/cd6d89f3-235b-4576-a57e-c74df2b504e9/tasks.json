@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 969476871228100609,
+      "job_id": "cd6d89f3-235b-4576-a57e-c74df2b504e9",
+      "query": "REPLICATE [country_n] WITH enableparallelreadpartitioning = 'false' SELECT * FROM [world].[country]",
+      "is_active": true
+    },
+    {
+      "id": 969486472157728769,
+      "job_id": "cd6d89f3-235b-4576-a57e-c74df2b504e9",
+      "query": "REPLICATE [staff] SELECT * FROM [sakila].[staff]",
+      "is_active": true
+    },
+    {
+      "id": 969487209323433985,
+      "job_id": "cd6d89f3-235b-4576-a57e-c74df2b504e9",
+      "query": "REPLICATE [customer] SELECT * FROM [synctest].[customer]",
+      "is_active": true
+    }
+  ]
+}

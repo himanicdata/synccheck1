@@ -1,13 +1,13 @@
 {
-  "id": "1840a86c-821f-4584-ba48-5d80b21284b3",
-  "name": "testgit",
+  "id": "cd6d89f3-235b-4576-a57e-c74df2b504e9",
+  "name": "mysql_hj_cdc",
   "pipeline_id": null,
-  "type": 1,
+  "type": 11,
   "source_connector": "mysql_git",
-  "destination_connector": "postgres",
+  "destination_connector": "hj",
   "schedule": {
     "enabled": false,
-    "cron": null
+    "cron": ""
   },
   "alerts": {
     "send_email": false,
@@ -18,7 +18,7 @@
     "enable_parallel_processing": false,
     "worker_pool": 1,
     "verbosity": 2,
-    "destination_schema": "public",
+    "destination_schema": "",
     "automatic_job_retry": true
   },
   "replicate_options": {
@@ -33,7 +33,7 @@
     "table_name_prefix": "",
     "table_name_suffix": null,
     "continue_on_error": false,
-    "deletion_behavior": "HardDelete",
+    "deletion_behavior": "SoftDelete",
     "insert_mode": null,
     "auto_truncate_Strings": false,
     "use_gmt_datetime": false,

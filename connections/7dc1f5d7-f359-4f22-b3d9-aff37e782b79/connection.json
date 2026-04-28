@@ -1,6 +1,6 @@
 {
-  "id": "de5c5b4e-ab84-490c-a2bf-d48c8667dd7d",
-  "display_name": "clicktest",
+  "id": "7dc1f5d7-f359-4f22-b3d9-aff37e782b79",
+  "display_name": "hj",
   "connector": {
     "name": "ClickHouse",
     "version": "latest"
@@ -9,7 +9,7 @@
     "Protocol": "TLS/SSL",
     "Endpoint": "f6m04jqhqb.us-east1.gcp.clickhouse.cloud",
     "Database": "default",
-    "Password": "SECURE:I/pTblPvy7N5dwRGcmqxUs8muFL25eXiYPnhZ+3BWbjARRtzSEnTLmk2Bgz95in4+ZyANAiIFcYlnpwhHw==",
+    "Password": "SECURE:4NE/z3nR9DPfjPRO27vdCUtru6TTT6aVZf0LfLgyymFXKIeAOIiEKpq8V7NRbvE0BGNlIml29ng7cZBrMg==",
     "Port": "8443",
     "User": "default"
   },
