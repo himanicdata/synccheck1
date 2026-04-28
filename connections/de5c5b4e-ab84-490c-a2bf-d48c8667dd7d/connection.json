@@ -6,12 +6,12 @@
     "version": "latest"
   },
   "properties": {
-    "Protocol": "TLS/SSL",
-    "Endpoint": "f6m04jqhqb.us-east1.gcp.clickhouse.cloud",
-    "Database": "default",
-    "Password": "SECURE:I/pTblPvy7N5dwRGcmqxUs8muFL25eXiYPnhZ+3BWbjARRtzSEnTLmk2Bgz95in4+ZyANAiIFcYlnpwhHw==",
-    "Port": "8443",
-    "User": "default"
+    "Protocol": "HTTP",
+    "Endpoint": "https",
+    "Database": "/console.clickhouse.cloud/:8123/default",
+    "Password": "SECURE:EFvJ7dhtLCFVF/jSGaELKzPjIGIDnsFDeXRrp2Fy6NEhjqQEIJB1km/w2UqeqxtmUognfJzAhMTDowcZ",
+    "Port": "",
+    "User": "himanij@cdata.com"
   },
   "labels": [],
   "settings": {
