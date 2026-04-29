@@ -1,0 +1,23 @@
+{
+  "id": "06011b81-4421-45b6-963f-b361a1b6a50b",
+  "display_name": "c l k",
+  "connector": {
+    "name": "ClickHouse",
+    "version": "latest"
+  },
+  "properties": {
+    "Protocol": "HTTP",
+    "Endpoint": "j",
+    "Database": "j",
+    "Password": "SECURE:Na4pGLEG5GgXJ87GbxQ6rWA2GM/sh7qjZRiAg2JF5elvb5LBW0+iJmb0dCJonGx0GgEtDkjl1Uc7NQ==",
+    "Port": "8123",
+    "User": "himanij@cdata.com"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 0
+  }
+}
